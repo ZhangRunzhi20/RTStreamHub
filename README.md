@@ -7,9 +7,12 @@ RTStreamHub, an open-source, headless C/C++ software that operates on Linux serv
 
 CONTRIBUTOR
 
-Core developers:
+   Core developers:
 
-Runzhi Zhang (zhangrunzhi@ntsc.ac.cn)
-Rui Tu ( turui-2004@126.com)
-Xiaochun Lu (luxc@ntsc.ac.cn)
-CONTACT QQ Groups: 651080705 (HASPPP) Emails: zhangrunzhi@ntsc.ac.cn; turui-2004@126.com; luxc@ntsc.ac.cn
+   * Runzhi Zhang (zhangrunzhi@ntsc.ac.cn)
+   * Rui Tu ( turui-2004@126.com)
+   * Xiaochun Lu (luxc@ntsc.ac.cn)
+
+CONTACT
+   QQ Groups: 651080705 (HASPPP)
+   Emails: zhangrunzhi@ntsc.ac.cn; turui-2004@126.com; luxc@ntsc.ac.cn
